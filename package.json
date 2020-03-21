@@ -1,3 +1,23 @@
 {
-  "lockfileVersion": 1
+  "lockfileVersion": 1,
+  "name": "corona-virus-map",
+  "description": "Make sure you have install nodejs\r Install modules command: npm install \r Run command: npx http-server",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huynhtankhanh/corona-virus-map.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huynhtankhanh/corona-virus-map/issues"
+  },
+  "homepage": "https://github.com/huynhtankhanh/corona-virus-map#readme",
+  "dependencies": {
+    "http-server": "^0.12.1"
+  }
 }
